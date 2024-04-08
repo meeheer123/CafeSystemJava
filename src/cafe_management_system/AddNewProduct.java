@@ -10,7 +10,7 @@ import model.Product;
 import dao.CategoryDao;
 import java.util.Iterator;
 import dao.ProductDao;
-
+ 
 /**
  *
  * @author POULAMI
